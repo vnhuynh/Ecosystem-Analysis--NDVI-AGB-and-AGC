@@ -1,6 +1,8 @@
 # QGIS-ndvi-agb-agc
 Generating NDVI, above ground biomass, above ground carbon stock in QGIS
-#Introduction
+
+Introduction
+
 This guideline provides step-by-step instructions on how to collect, process, and use remote sensing data for the implementation and monitoring 
 In this guide  can generate and interpret three key data outputs: 
 Normalized Difference Vegetation Index (NDVI): measures vegetation health, land cover changes and wetland conditions over time
