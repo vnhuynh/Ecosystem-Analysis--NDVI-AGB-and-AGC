@@ -1,5 +1,5 @@
 # Ecosystem Analysis
-# Generating NDVI, above-ground biomass, and above-ground carbon stock d in QGIS software. 
+# Generating NDVI, above-ground biomass, and above-ground carbon stock in QGIS software and Python. 
 
 Quick & Easy Workflow for Mapping NDVI, Biomass, and Carbon Stock.  
 This repository provides tools and a step-by-step guide using QGIS and remote sensing data (Sentinel-2, Landsat, Planet) to:
