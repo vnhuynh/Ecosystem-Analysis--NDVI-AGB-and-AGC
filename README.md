@@ -20,10 +20,10 @@ These workflows support vegetation monitoring, ecosystem service mapping, and ca
 ### User Guides:
 
 - **[QGIS Guide – Generating NDVI, AGB, and AGC](https://github.com/vnhuynh/Ecosystem-Analysis--NDVI-AGB-and-AGC/blob/main/Generating%20NDVI%2C%20AGB%2C%20and%20AGC%20in%20QGIS.pdf)**  
-  A complete step-by-step PDF guide for generating NDVI, biomass, and carbon stock using QGIS’s raster calculator and processing toolbox. Ideal for users who prefer a GUI-based workflow.
+  A complete step-by-step PDF guide for generating NDVI, biomass, and carbon stock using QGIS’s raster calculator and processing toolbox. 
 
 - **[Python Notebook – NDVI, AGB, and AGC Automation](https://github.com/vnhuynh/Ecosystem-Analysis--NDVI-AGB-and-AGC/blob/main/ndvi-agb-agc-python.ipynb)**  
-  A Jupyter Notebook that automates NDVI raster cropping, biomass estimation using NDVI, and carbon stock calculations. Recommended for users who prefer scripting and scalable workflows.
+  A Python script that generates NDVI raster cropping, biomass estimation using NDVI, and carbon stock calculations. Recommended for users who prefer scripting and scalable workflows.
 
 
 ---
