@@ -1,40 +1,46 @@
-# Ecosystem Analysis
-# Generating NDVI, above-ground biomass, and above-ground carbon stock in QGIS software and Python. 
+# Ecosystem Analysis  
+### Generating NDVI, Above-Ground Biomass (AGB), and Above-Ground Carbon Stock (AGC) using QGIS and Python
 
-Quick & Easy Workflow for Mapping NDVI, Biomass, and Carbon Stock.  
-This repository provides tools and a step-by-step guide using QGIS and remote sensing data (Sentinel-2, Landsat, Planet) to:
+This repository provides two pathways to generate NDVI, AGB, and AGC data for marine and wetland ecosystems using remote sensing:
 
-- Monitor Vegetation Health (NDVI)
-- Estimate Above-Ground Biomass
-- Calculate Above-Ground Carbon Stock
-- Support PES and Ecosystem Monitoring
+- **QGIS Workflow** *(no coding required)*  
+- **Python Workflow** *(automated, script-based)*
+
+These workflows support vegetation monitoring, ecosystem service mapping, and carbon estimation for PES (Payment for Ecosystem Services) planning.
 
 ---
 
-### Contact:
+### 📧 Contact:
 **vatrhuyn@ucsc.edu**
 
 ---
 
-### Documentation:
-- [User Guidelines for NDVI, Biomass, and Carbon Stock](./docs/github%20-%20Google%20Docs.pdf)
+### 📘 User Guides:
+
+- **[QGIS Guide – Generating NDVI, AGB, and AGC](https://github.com/vnhuynh/Ecosystem-Analysis--NDVI-AGB-and-AGC/blob/main/Generating%20NDVI%2C%20AGB%2C%20and%20AGC%20in%20QGIS.pdf)**  
+  A complete step-by-step PDF guide for generating NDVI, biomass, and carbon stock using QGIS’s raster calculator and processing toolbox.
+
+- **Python Guide – [Coming soon or link here when available]**  
+  Automate NDVI and biomass calculations using Python scripts with raster data.
 
 ---
 
-### Example Outputs:
-- NDVI Map (Dry Season)
-- Biomass Map (Melaleuca Forest)
-- Carbon Stock Visualization
+### 🖼Example Outputs:
+- NDVI map (dry and wet seasons)
+- Biomass estimation (e.g., for Melaleuca forests)
+- Above-ground carbon stock map
 
 ---
 
 ### Requirements:
-- QGIS
-- Access to satellite data (Sentinel-2, Landsat, or Planet)
+- QGIS or Python
+- Remote sensing imagery (Sentinel-2, Landsat 8/9, or PlanetScope)
 
 ---
 
-### Features:
-- Simple QGIS workflow (no coding needed)
-- Supports seasonal comparison
-- Raster calculator formulas provided
+### Key Features:
+- Two flexible workflows (QGIS or Python)
+- Seasonal ecosystem monitoring support
+- Includes carbon estimation, biomass, and NDVI
+- Supports PES scheme planning
+
