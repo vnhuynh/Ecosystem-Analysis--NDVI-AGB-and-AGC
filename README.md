@@ -17,8 +17,6 @@ These workflows support vegetation monitoring, ecosystem service mapping, and ca
 
 ### User Guides:
 
-### User Guides:
-
 - **[QGIS Guide – Generating NDVI, AGB, and AGC](https://github.com/vnhuynh/Ecosystem-Analysis--NDVI-AGB-and-AGC/blob/main/Generating%20NDVI%2C%20AGB%2C%20and%20AGC%20in%20QGIS.pdf)**  
   A complete step-by-step PDF guide for generating NDVI, biomass, and carbon stock using QGIS’s raster calculator and processing toolbox. 
 
